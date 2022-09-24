@@ -1,4 +1,4 @@
-#Minimal boilerplate for Next.js
+# Minimal boilerplate for Next.js
 I created this as a generic template for all of my web projects, so I've only implemented the tools I need to launch a new project.
 
 - TypeScript on strict mode
