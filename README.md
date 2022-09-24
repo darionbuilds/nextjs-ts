@@ -14,16 +14,14 @@ I created this as a generic template for all of my web projects, so I've only im
 
 2. Navigate to the forked repo: `https://github.com/[your_github_username]/nextjs-ts`
 
-3. [Optional] Click settings and check the box for "Template repository"
+3. **[Optional]** Click settings and check the box for "Template repository"
 
-4. [Generate](https://favicon.io/favicon-converter/) icons for:
+4. **[Recommended]** [Generate](https://favicon.io/favicon-converter/) icons for:
     - `apple-touch-icon.png`
     - `favicon-32x32.png`
     - `favicon-16x16.png`
     - `favicon.ico`
 
-5. Place the files in the `public` folder, located at root
+    Place the files in the `public` folder, located at root
 
-6. `npm run dev`
-
-7. Profit
+5. `npm run dev`
