@@ -7,5 +7,4 @@ I created this as a generic template for all of my web projects, so I've only im
 - TailwindCSS for the convenience of inline styling
 - ESLint using Airbnb style guide
 - Prettier for automatic style formatting
-
 - Postcss with autoprefixer plugin
