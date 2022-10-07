@@ -16,7 +16,9 @@ I created this as a generic template for all of my web projects, so I've only im
 
 3. **[Optional]** Click settings and check the box for "Template repository"
 
-4. **[Recommended]** [Generate](https://favicon.io/favicon-converter/) icons for:
+4. `npm install`
+
+5. **[Recommended]** [Generate](https://favicon.io/favicon-converter/) icons for:
     - `apple-touch-icon.png`
     - `favicon-32x32.png`
     - `favicon-16x16.png`
@@ -24,4 +26,4 @@ I created this as a generic template for all of my web projects, so I've only im
 
     Place the files in the `public` folder, located at root
 
-5. `npm run dev`
+6. `npm run dev`
